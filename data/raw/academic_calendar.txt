@@ -1,0 +1,37 @@
+
+# GREENFIELD UNIVERSITY
+## Academic Calendar – 2026–2027
+
+### 1. Academic Year
+The academic year 2026–2027 begins on 1 July 2026 and ends on 30 June 2027.
+
+### 2. Odd Semester
+- Semester begins: 1 July 2026.
+- Registration period: 1 July to 7 July 2026.
+- Classes begin: 8 July 2026.
+- Mid-semester examinations: 14 September to 19 September 2026.
+- Semester-end examinations: 23 November to 12 December 2026.
+- Semester break: 14 December 2026 to 3 January 2027.
+
+### 3. Even Semester
+- Semester begins: 4 January 2027.
+- Registration period: 4 January to 8 January 2027.
+- Classes begin: 11 January 2027.
+- Mid-semester examinations: 8 March to 13 March 2027.
+- Semester-end examinations: 19 April to 8 May 2027.
+- Summer vacation begins: 10 May 2027.
+
+### 4. Important Holidays
+- Independence Day: 15 August 2026.
+- Gandhi Jayanti: 2 October 2026.
+- Diwali holiday: 8 November 2026.
+- Republic Day: 26 January 2027.
+- Holi holiday: 22 March 2027.
+
+### 5. Admission and Registration
+New student orientation is scheduled for 1 July to 3 July 2026.
+
+Course registration must be completed within the registration period specified for each semester.
+
+### 6. Important Notice
+Dates are fictional sample dates for testing the University Academic Information Assistant project. Actual university calendars may differ.

@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "question": "What is the minimum attendance required for students?",
+        "answer": "Students must maintain at least 75% attendance in each course [Source: examination_rules.txt].",
+        "retrieved_sources": [
+            "examination_rules.txt",
+            "scholarship_policy.txt",
+            "admission_policy.txt",
+            "university_facilities.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 2,
+        "question": "What percentage of marks is allocated to internal assessment?",
+        "answer": "Internal assessment carries 30% of the total marks [Source: examination_rules.txt].",
+        "retrieved_sources": [
+            "examination_rules.txt",
+            "scholarship_policy.txt",
+            "admission_policy.txt",
+            "fee_structure.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 3,
+        "question": "What is the minimum passing percentage in examinations?",
+        "answer": "Students must obtain at least 40% marks in each course to pass [Source: examination_rules.txt].",
+        "retrieved_sources": [
+            "examination_rules.txt",
+            "scholarship_policy.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 4,
+        "question": "What is the merit scholarship for students scoring 90% or above?",
+        "answer": "Students scoring 90% or above may receive a 50% tuition fee waiver [Source: scholarship_policy.txt].",
+        "retrieved_sources": [
+            "scholarship_policy.txt",
+            "admission_policy.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 5,
+        "question": "What CGPA is required for scholarship renewal?",
+        "answer": "To renew a scholarship, students must maintain a minimum CGPA of 7.0 [Source: scholarship_policy.txt].",
+        "retrieved_sources": [
+            "scholarship_policy.txt",
+            "admission_policy.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 6,
+        "question": "What is the undergraduate admission eligibility?",
+        "answer": "To be eligible for undergraduate admission at Greenfield University, applicants must meet the following criteria:\n\n- Have completed Class 12 or an equivalent examination from a recognized board [Source: admission_policy.txt].\n- Have obtained a minimum of 50% aggregate marks [Source: admission_policy.txt].\n- Applicants applying for reserved-category seats must meet the applicable eligibility criteria [Source: admission_policy.txt].\n- Some programmes may have additional subject-specific requirements [Source: admission_policy.txt].",
+        "retrieved_sources": [
+            "admission_policy.txt",
+            "scholarship_policy.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 7,
+        "question": "What is the undergraduate application fee?",
+        "answer": "The undergraduate application fee is ₹500 [Source: admission_policy.txt].",
+        "retrieved_sources": [
+            "admission_policy.txt",
+            "fee_structure.txt",
+            "scholarship_policy.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 8,
+        "question": "How many books can a student borrow from the library?",
+        "answer": "Students can borrow up to four books at a time [Source: sample_document.pdf; Source: university_facilities.txt].",
+        "retrieved_sources": [
+            "sample_document.pdf",
+            "university_facilities.txt",
+            "scholarship_policy.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 9,
+        "question": "What are the university library opening hours?",
+        "answer": "The central library is open from 9:00 AM to 6:00 PM, Monday to Saturday [Source: sample_document.pdf\n; Source: university_facilities.txt].",
+        "retrieved_sources": [
+            "sample_document.pdf",
+            "university_facilities.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 10,
+        "question": "When does the academic year begin?",
+        "answer": "The academic year 2026–2027 begins on 1 July 2026 [Source: academic_calendar.txt].",
+        "retrieved_sources": [
+            "academic_calendar.txt",
+            "examination_rules.txt"
+        ],
+        "retrieval_correct": true,
+        "citation_correct": true,
+        "abstention_correct": null,
+        "answer_generation_success": true
+    },
+    {
+        "id": 11,
+        "question": "What is the university's international student exchange program?",
+        "answer": "I could not find sufficient information in the university documents to answer this question.",
+        "retrieved_sources": [
+            "university_facilities.txt",
+            "academic_calendar.txt",
+            "admission_policy.txt",
+            "scholarship_policy.txt"
+        ],
+        "retrieval_correct": null,
+        "citation_correct": null,
+        "abstention_correct": true,
+        "answer_generation_success": null
+    },
+    {
+        "id": 12,
+        "question": "Who is the current vice-chancellor of the university?",
+        "answer": "I could not find sufficient information in the university documents to answer this question.",
+        "retrieved_sources": [
+            "academic_calendar.txt",
+            "fee_structure.txt",
+            "admission_policy.txt",
+            "sample_document.html"
+        ],
+        "retrieval_correct": null,
+        "citation_correct": null,
+        "abstention_correct": true,
+        "answer_generation_success": null
+    },
+    {
+        "id": 13,
+        "question": "Does the university provide free laptops to students?",
+        "answer": "I could not find sufficient information in the university documents to answer this question.",
+        "retrieved_sources": [
+            "university_facilities.txt",
+            "fee_structure.txt"
+        ],
+        "retrieval_correct": null,
+        "citation_correct": null,
+        "abstention_correct": true,
+        "answer_generation_success": null
+    },
+    {
+        "id": 14,
+        "question": "What is the university's campus placement percentage?",
+        "answer": "I could not find sufficient information in the university documents to answer this question.",
+        "retrieved_sources": [
+            "scholarship_policy.txt",
+            "examination_rules.txt",
+            "university_facilities.txt",
+            "fee_structure.txt"
+        ],
+        "retrieval_correct": null,
+        "citation_correct": null,
+        "abstention_correct": true,
+        "answer_generation_success": null
+    },
+    {
+        "id": 15,
+        "question": "Does the university offer a PhD program in astronomy?",
+        "answer": "I could not find sufficient information in the university documents to answer this question.",
+        "retrieved_sources": [
+            "admission_policy.txt",
+            "scholarship_policy.txt"
+        ],
+        "retrieval_correct": null,
+        "citation_correct": null,
+        "abstention_correct": true,
+        "answer_generation_success": null
+    }
+]

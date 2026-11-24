@@ -1,0 +1,49 @@
+
+# GREENFIELD UNIVERSITY
+## Campus Facilities – Academic Year 2026–2027
+
+### 1. Central Library
+- The central library is open Monday to Saturday.
+- Opening hours: 9:00 AM to 6:00 PM.
+- Students can borrow up to four books at a time.
+- The standard borrowing period is 14 days.
+- Students must return books before the due date to avoid late fines.
+
+### 2. Computer Laboratories
+- The university has five computer laboratories.
+- Laboratories are equipped with internet-connected computers.
+- Lab operating hours are 9:00 AM to 5:00 PM, Monday to Friday.
+- Students must use their university login credentials to access lab computers.
+
+### 3. Hostel Facilities
+- Separate hostel accommodation is available for male and female students.
+- Hostel rooms are subject to availability.
+- Hostel residents must follow university accommodation rules.
+- Hostel applications are submitted through the Student Affairs Office.
+
+### 4. Cafeteria
+- The campus cafeteria operates Monday to Saturday.
+- Opening hours: 8:00 AM to 7:00 PM.
+- The cafeteria provides breakfast, lunch, snacks and beverages.
+
+### 5. Sports Facilities
+- The university provides facilities for cricket, football, basketball and badminton.
+- Sports facilities are available from 6:00 AM to 8:00 PM.
+- Students must register with the Sports Office to use selected facilities.
+
+### 6. Medical Centre
+- A campus medical centre provides basic first aid and health assistance.
+- Operating hours: 9:00 AM to 5:00 PM, Monday to Friday.
+- Emergency assistance is coordinated through the Student Affairs Office.
+
+### 7. Wi-Fi and Internet
+- Campus Wi-Fi is available in academic buildings, the library and selected common areas.
+- Students must use their university credentials to connect.
+
+### 8. Contact Information
+Student Affairs Office: Greenfield University
+Email: studentaffairs@greenfield.example
+Office Hours: Monday to Friday, 10:00 AM to 4:00 PM.
+
+### 9. Important Notice
+This is fictional sample information created for testing the University Academic Information Assistant project.

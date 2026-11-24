@@ -1,0 +1,108 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is the minimum attendance required for students?",
+    "expected_source": "examination_rules.txt",
+    "expected_answer": "Students must maintain at least 75% attendance in each course.",
+    "should_abstain": false
+  },
+  {
+    "id": 2,
+    "question": "What percentage of marks is allocated to internal assessment?",
+    "expected_source": "examination_rules.txt",
+    "expected_answer": "Internal assessment carries 30% of the total marks.",
+    "should_abstain": false
+  },
+  {
+    "id": 3,
+    "question": "What is the minimum passing percentage in examinations?",
+    "expected_source": "examination_rules.txt",
+    "expected_answer": "Students need at least 40% marks to pass.",
+    "should_abstain": false
+  },
+  {
+    "id": 4,
+    "question": "What is the merit scholarship for students scoring 90% or above?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_answer": "Students scoring 90% or above receive a 50% tuition fee waiver.",
+    "should_abstain": false
+  },
+  {
+    "id": 5,
+    "question": "What CGPA is required for scholarship renewal?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_answer": "A minimum CGPA of 7.0 is required for scholarship renewal.",
+    "should_abstain": false
+  },
+  {
+    "id": 6,
+    "question": "What is the undergraduate admission eligibility?",
+    "expected_source": "admission_policy.txt",
+    "expected_answer": "Applicants must pass Class 12 with at least 50% aggregate marks.",
+    "should_abstain": false
+  },
+  {
+    "id": 7,
+    "question": "What is the undergraduate application fee?",
+    "expected_source": "admission_policy.txt",
+    "expected_answer": "The undergraduate application fee is Rs. 500.",
+    "should_abstain": false
+  },
+  {
+    "id": 8,
+    "question": "How many books can a student borrow from the library?",
+    "expected_source": "university_facilities.txt",
+    "expected_answer": "Students can borrow up to four books.",
+    "should_abstain": false
+  },
+  {
+    "id": 9,
+    "question": "What are the university library opening hours?",
+    "expected_source": "university_facilities.txt",
+    "expected_answer": "The library is open Monday to Saturday, from 9 AM to 6 PM.",
+    "should_abstain": false
+  },
+  {
+    "id": 10,
+    "question": "When does the academic year begin?",
+    "expected_source": "academic_calendar.txt",
+    "expected_answer": "The academic year begins on 1 July 2026.",
+    "should_abstain": false
+  },
+  {
+    "id": 11,
+    "question": "What is the university's international student exchange program?",
+    "expected_source": null,
+    "expected_answer": null,
+    "should_abstain": true
+  },
+  {
+    "id": 12,
+    "question": "Who is the current vice-chancellor of the university?",
+    "expected_source": null,
+    "expected_answer": null,
+    "should_abstain": true
+  },
+  {
+    "id": 13,
+    "question": "Does the university provide free laptops to students?",
+    "expected_source": null,
+    "expected_answer": null,
+    "should_abstain": true
+  },
+  {
+    "id": 14,
+    "question": "What is the university's campus placement percentage?",
+    "expected_source": null,
+    "expected_answer": null,
+    "should_abstain": true
+  },
+  {
+    "id": 15,
+    "question": "Does the university offer a PhD program in astronomy?",
+    "expected_source": null,
+    "expected_answer": null,
+    "should_abstain": true
+  }
+]
